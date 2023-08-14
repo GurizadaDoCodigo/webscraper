@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "com.gdcode.scrapper.agent",
+    "type": "java.lang.String",
+    "description": "Defines what user agent jsoup will use for this application"
+  },
+  {
+    "name": "com.gdcode.scrapper.language",
+    "type": "java.lang.String",
+    "description": "Language supported by the jsoup client"
+  },
+  {
+    "name": "com.gdcode.scrapper.currency",
+    "type": "java.lang.String",
+    "description": "The currency that will be matched on the price field"
+  }
+]}
